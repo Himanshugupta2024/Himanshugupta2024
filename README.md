@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 ## Get in Touch
 Feel free to reach out to me through the following channels:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/Himanshu2022/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/himanshugupta10/)
 - GitHub: [Your GitHub Profile](https://github.com/Himanshugupta2024)
 
 Let's connect and collaborate on exciting projects together!
