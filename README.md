@@ -53,14 +53,15 @@ Today my strongest focus is **AI & Quantitative Engineering** — designing miss
 ### 📊 GITHUB ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Himanshugupta2024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7952d2&icon_color=00d2ff&text_color=c9d1d9" alt="Himanshu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshugupta2024&theme=tokyonight&hide_border=true&background=0d1117&stroke=7952d2&ring=7952d2&fire=00d2ff&currStreakNum=7952d2" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himanshugupta2024&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshugupta2024&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7952d2&ring=7952d2&fire=00d2ff&currStreakNum=7952d2" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Himanshugupta2024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7952d2&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himanshugupta2024&theme=tokyonight" alt="Most Commit Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himanshugupta2024&theme=tokyonight" alt="Repos per Language" width="48%" />
 </div>
 
 ---
